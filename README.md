@@ -43,15 +43,3 @@ Baukis2 は企業向けの顧客管理システム（Ruby on Rails 学習用サ�
   * http://baukis2.example.com:3000 -- 職員向けサイト
   * http://baukis2.example.com:3000/admin -- 管理者向けサイト
   * http://example.com:3000/mypage -- 顧客向けサイト
-# Rails6_jissen_guide
-# Rails6_jissen_guide
-# Rails6_jissen_guide
-# Rails6_jissen_guide
-# Rails6_jissen_guide
-# Rails6_jissen_guide
-# Rails6_Jissen
-# Rails6_Jissen
-# baukis2
-# Rails6_Jissen
-# Rails6_Jissen
-# Rails6_Jissen
